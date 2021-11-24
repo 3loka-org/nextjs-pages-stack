@@ -1,6 +1,6 @@
 version: 0.1.0                                            
 
-name: bespoke
+name: stacks-starter
 description: A stack to deploy a nextjs based website to Github Pages1               
 
 branding:                                                # stack branding 
