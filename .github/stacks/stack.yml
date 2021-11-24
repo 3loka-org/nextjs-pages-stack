@@ -1,6 +1,6 @@
 version: 0.1.0                                            
 
-name: stacks-starter
+name: nextjs-pages-stack
 description: A stack to deploy a nextjs based website to Github Pages1               
 
 branding:                                                # stack branding 
